@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello world" >> $HOME/abc.txt
+echo "Adding more details in file" >> $HOME/abc.txt
