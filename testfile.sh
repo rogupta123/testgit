@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Adding more details in file" >> $HOME/abc.txt
+echo "Adding one and two" >> $HOME/abc.txt
